@@ -1,0 +1,2 @@
+export DF_BEST_ANIMAL="corgi"
+echo "dotart config"
