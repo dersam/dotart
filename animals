@@ -23,4 +23,5 @@ corgi() {
                '`      ,'
                     ,-'
 EOT
+# https://github.com/tylermadsen/CorgiBash
 }
